@@ -7,6 +7,7 @@
 ## ✨ Project Preview
 
 🎥 **Watch the Project Demo**
+https://github.com/user-attachments/assets/preview1.mp4
 [Project Preview](./src/assets/preview1.mp4)
 
 > Replace the above link with your uploaded GitHub video link.
